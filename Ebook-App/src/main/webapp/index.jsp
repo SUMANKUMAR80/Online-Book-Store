@@ -34,7 +34,7 @@
 
 	<%@include file="all_component/navbar.jsp"%>
 	<div class="container-fluid back-img">
-		<h2 class="text-center text-danger">Ebook Management System</h2>
+		<h2 class="text-center text-danger">Online Book Store</h2>
 	</div>
 
 
